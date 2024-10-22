@@ -1,0 +1,10 @@
+/**
+ * Theme Name: tw-felix
+ * Author: Félix Dupras-Simard
+ * Description: Thème enfant pour le site de Félix
+ * Text Domain: tw-felix
+ * Version: twfds1
+ * Template: twentytwenty
+ */
+
+ @import url("../twentytwenty/style.css");
