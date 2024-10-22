@@ -1,0 +1,6 @@
+[01-Oct-2024 13:55:43 UTC] PHP Notice:  wp_json_file_decode(): Erreur lors du décodage du fichier JSON à l’emplacement /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/theme.json : Syntax error in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/functions.php on line 6085
+[01-Oct-2024 13:55:43 UTC] PHP Notice:  wp_json_file_decode(): Erreur lors du décodage du fichier JSON à l’emplacement /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/theme.json : Syntax error in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/functions.php on line 6085
+[01-Oct-2024 13:55:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[01-Oct-2024 13:55:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[01-Oct-2024 13:55:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[01-Oct-2024 13:55:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
