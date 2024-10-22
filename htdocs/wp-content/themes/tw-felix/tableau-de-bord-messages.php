@@ -48,9 +48,9 @@ function felix_echo_debug( $message ) {
  *
  * Utilisation : add_action( 'loop_start', 'monprefixe_avertir_maintenance' );
  */
-function monprefixe_avertir_maintenance( $array ) {
+function felix_avertir_maintenance( $array ) {
 	// on pourrait aussi travailler avec la base de données pour savoir quand un message doit être affiché ou non et pour retrouver le message à afficher.
-	echo '<div class="messagegeneral">Attention : le 16 juin à 11h, des travaux d\'entretien seront effectués. Le site ne sera pas disponible pendant deux heures.</div>';
+	echo '<div class="messagegeneral">Attention : le 15 juin à 11h, des travaux d\'entretien seront effectués. Le site ne sera pas disponible pendant deux heures.</div>';
 }
 
-add_action( 'wp_body_open', 'monprefixe_avertir_maintenance' );
+//add_action( 'wp_body_open', 'felix_avertir_maintenance' );
