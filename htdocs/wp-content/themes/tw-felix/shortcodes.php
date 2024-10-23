@@ -47,3 +47,42 @@ function felix_affichage_tableBD() {
 }
 
 add_shortcode( 'felixaffichageBD', 'felix_affichage_tableBD' );
+
+/**
+ * Exécute une boucle dans un tableau et resort les résultats sous format HTML
+ * @author Félix Dupras-Simard
+ *
+ * Utilisation : [felixaffichageBD]
+ * Suppositions critiques : le style .textespecial doit définir l'apparence du texte
+ *
+ * @return String Code html généré par le shortcode
+ *
+ */
+function felix_formulaire_contact() {
+	$code_html = "";
+	$code_html .=
+		"
+			<div class='container'>
+				<form action='envoyer-courriel-contact.php'>
+				<!--Addresse Courriel-->
+				<label for='email'>Courriel :</label>
+				<input type='text' id='email' name='email' placeholder='Votre adresse courriel...' required>
+
+				<!--Sujet Message-->
+				<label for='sujetMessage'>Sujet :</label>
+				<input type='text' id='sujetMessage' name='sujetMessage' placeholder='Sujet du message...' required>
+
+				<label for='message'>Message :</label>
+    			<textarea id='message' name='message' placeholder='Votre message...' style='height:200px' required></textarea>
+
+    			<input type='submit' value='Soumettre'>
+				</form>
+			</div>
+		";
+
+
+
+	return $code_html;
+}
+
+add_shortcode( 'felixaffichagecontact', 'felix_formulaire_contact' );
