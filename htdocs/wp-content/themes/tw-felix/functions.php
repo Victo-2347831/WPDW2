@@ -66,3 +66,17 @@ function felix_version_style() {
 
 	return $data['Version'];
 }
+
+/**
+ * Active les variables de session.
+ * @author Christiane Lagacé <christiane.lagace@hotmail.com>
+ *
+ * Utilisation : add_action( 'init', 'monprefixe_session_start', 1 );
+ */
+function felix_session_start() {
+	if ( ! session_id() ) {
+		@session_start();
+	}
+}
+
+add_action( 'init', 'felix_session_start', 1 );

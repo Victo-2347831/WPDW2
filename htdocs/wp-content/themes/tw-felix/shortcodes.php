@@ -59,29 +59,24 @@ add_shortcode( 'felixaffichageBD', 'felix_affichage_tableBD' );
  *
  */
 function felix_formulaire_contact() {
-	$code_html = "";
+	$code_html = '<form method="post" action="' . get_stylesheet_directory_uri() . '/envoyer-courriel-contact.php">';
+
 	$code_html .=
 		"
-			<div class='container'>
-				<form action='envoyer-courriel-contact.php'>
-				<!--Addresse Courriel-->
-				<label for='email'>Courriel :</label>
-				<input type='text' id='email' name='email' placeholder='Votre adresse courriel...' required>
+			<!--Addresse Courriel-->
+			<label for='email'>Courriel :</label>
+			<input type='text' id='email' name='email' placeholder='Votre adresse courriel...' required>
 
-				<!--Sujet Message-->
-				<label for='sujetMessage'>Sujet :</label>
-				<input type='text' id='sujetMessage' name='sujetMessage' placeholder='Sujet du message...' required>
+			<!--Sujet Message-->
+			<label for='sujetMessage'>Sujet :</label>
+			<input type='text' id='sujetMessage' name='sujetMessage' placeholder='Sujet du message...' required>
 
-				<label for='message'>Message :</label>
-    			<textarea id='message' name='message' placeholder='Votre message...' style='height:200px' required></textarea>
+			<label for='message'>Message :</label>
+    		<textarea id='message' name='message' placeholder='Votre message...' style='height:200px' required></textarea>
 
-    			<input type='submit' value='Soumettre'>
-				</form>
-			</div>
+    		<input type='submit' value='Soumettre'>
+			</form>
 		";
-
-
-
 	return $code_html;
 }
 
