@@ -59,6 +59,31 @@ function felix_creer_tables() {
 			felix_log_debug( $wpdb->last_error );
 		}
 	}
+
+	// TABLE FORMULAIRE CONTACTS
+	// CRÉATION TABLE CONTACTS
+	$table_contacts = $wpdb->prefix . 'felix_contacts';
+	$sql = "CREATE TABLE $table_contacts (
+        id bigint(20) unsigned NOT NULL auto_increment,
+       	courriel varchar(100) NOT NULL,
+        sujetMessage varchar(100) NOT NULL,
+        message varchar(250) NOT NULL,
+        dateEnvoi datetime NOT NULL,
+        ipClient varchar(20) NOT NULL,
+        PRIMARY KEY  (id)
+    ) $charset_collate;";
+
+	require_once( ABSPATH . 'wp-admin/includes/upgrade.php' );
+
+	$taches_realisees = dbDelta( $sql );
+	felix_log_debug($taches_realisees);
+
+	$erreur_sql = $wpdb->last_error;
+
+	if ('' != $erreur_sql) {
+		// réagir en cas de problème
+		felix_log_debug("Erreur lors de la création de la table $table_contacts.");
+	}
 }
 
 add_action( "after_switch_theme", "felix_creer_tables" );
