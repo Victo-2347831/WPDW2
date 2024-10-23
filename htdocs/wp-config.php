@@ -18,18 +18,35 @@
  * @package WordPress
  */
 
+define( 'HEBERGEMENT_LOCAL', true );
+
 // ** Database settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
-define( 'DB_NAME', 'wordpress2024_duprassimardfelix' );
+if ( HEBERGEMENT_LOCAL ) {
+	/** The name of the database for WordPress */
+	define( 'DB_NAME', 'wordpress2024_duprassimardfelix' );
 
-/** Database username */
-define( 'DB_USER', 'root' );
+	/** Database username */
+	define( 'DB_USER', 'root' );
 
-/** Database password */
-define( 'DB_PASSWORD', '' );
+	/** Database password */
+	define( 'DB_PASSWORD', '' );
 
-/** Database hostname */
-define( 'DB_HOST', '127.0.0.1' );
+	/** Database hostname */
+	define( 'DB_HOST', '127.0.0.1' );
+}
+else {
+	/** The name of the database for WordPress */
+	define( 'DB_NAME', 'wordpress2024_duprassimardfelix' );
+
+	/** Database username */
+	define( 'DB_USER', 'DraT0x' );
+
+	/** Database password */
+	define( 'DB_PASSWORD', '5CBBRw9R7H9h4uC' );
+
+	/** Database hostname */
+	define( 'DB_HOST', 'localhost' );
+}
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
@@ -48,14 +65,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'XLu.Z<,az-EN;%#F]NK]Ij>+8*Bs;H38A}gH[fb _r3hsE&c9dW8!@o-YB]ux1@D' );
-define( 'SECURE_AUTH_KEY',  'OL#nedGd,(1y$o#TI)lX~1pnXwY$<);Fno6MEaTgXO|a ?Rpy<=w B6,Ono=C+8g' );
-define( 'LOGGED_IN_KEY',    'PF@lj`%3RIkQfzHZ#M:?3f qOPh?J!$g%H6(+VV|`TNAeow4-r5b50MI{wl27m-r' );
-define( 'NONCE_KEY',        'ou H$D%Ac2Iv//~Mx7T=dzR`R|$]{0D#:4UvpM(XfyYDte~wSfK0L&q7&Yzx7Q3f' );
-define( 'AUTH_SALT',        '^SL80?H;KTdEKOOiCzx0vJ$dcNKbr]O@!B?axm$a3A^)4/wguv)TZ&q3Hq}ltLJ7' );
-define( 'SECURE_AUTH_SALT', 'wn)ZL8P$wrIVJ$)=(mO{8`XiG^kyi?@7dfKB8&1BO(PzDyCut5;<+M{Q,==QZr^)' );
-define( 'LOGGED_IN_SALT',   's#$4>p|OMp956p.N[:a{0&S%-FUX]0<[<or-=e4P$^OIuAw+.7@eBYp,@zqu2mr=' );
-define( 'NONCE_SALT',       'U}OQrB^p<pckj3TNl.gW;1R*io[Px>x?d@:8M!ON@[wHCr+c(uP&ucf-xC]otOF{' );
+define( 'AUTH_KEY',         '6ksY^j?dG:hg=IeNK+@_usx=2>cT?VHAVTU_V<IErEM?JThCU.C1;y.XpMcmV66w' );
+define( 'SECURE_AUTH_KEY',  '4;CHeJglXK10W{3r)vNRm.[K_GSSr0$,~_,pA{PT8rt4gG$N23i~fWAzbkM9*,cG' );
+define( 'LOGGED_IN_KEY',    '*Q)?KcYSD5-lXJ`rw=7DOk:BIxDwty;FgJJl[zRHK5[foRm^1(@w`j6$X&b:nain' );
+define( 'NONCE_KEY',        '!t>&Gc;&AF>an}2]XTQ0K3~i$i%J1n!t?^3 Virm} %G!W6[(-:jmPIUby<DZ[- ' );
+define( 'AUTH_SALT',        ':!m|K`w()QC`9do?#Muj}PypR8H%1lD-xFP):M}Cp{YEO0$%Z[0)`GMZ}e536Jc7' );
+define( 'SECURE_AUTH_SALT', 'zXymvSCXyw]0L|_-kf8B5g`nWMcST`I*U_?$|.SkdQV`4~XHAlB; -M3b!+t0>nK' );
+define( 'LOGGED_IN_SALT',   'IUq]G^-<R`v3j]uqQl/DW:Du&4q&1>=NsIXI$Go9n}I6EUd0P2=w=oHj{nRk8.D,' );
+define( 'NONCE_SALT',       '?*=>vn6c(|s6vF &tRF-RyWPG<{e_!=8 |Cs]},9e]017Bmmw]&>a,wd5HsxSY>0' );
 
 /**#@-*/
 
@@ -79,10 +96,33 @@ $table_prefix = 'fds6_';
  *
  * @link https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/
  */
-define( 'WP_DEBUG', false );
+// Active (true) ou désactive (false) le mode débogage
+define( 'WP_DEBUG', true );
+
+// Pendant le débogage, lorsqu'une erreur est rencontrée, n'affiche pas de message d'erreur à l'écran.
+// Plutôt, WordPress enverra un codes d'état HTTP 500 au navigateur.
+define( 'WP_DEBUG_DISPLAY', false );
+
+// Pendant le débogage, WordPress enregistrera les messages d'erreur dans le fichier cité.
+// Note : si la constante est simplement initialisée à true, les messages seront enregistrés dans le fichier wp-content/debug.log.
+if ( HEBERGEMENT_LOCAL ) {
+	define( 'WP_DEBUG_LOG',dirname(__FILE__, 2) . '/dev/debug/debug-' . date('Y-m-d') . '.log' );
+} else {
+	define( 'WP_DEBUG_LOG', dirname(__FILE__, 2) . '/debug-' . date('Y-m-d') . '.log' );
+}
+// En production (lorsque WP_DEBUG est à false), n'affiche pas les erreurs à l'écran.
+@ini_set( 'display_errors', '0' );
 
 /* Add any custom values between this line and the "stop editing" line. */
-
+// COURRIEL
+define( 'SMTP_HOST', 'mail.dratoxweb.org' );
+define( 'SMTP_AUTH', true );
+define( 'SMTP_PORT', '587' );  // ou 465
+define( 'SMTP_SECURE', 'tls' );   // ou ssl
+define( 'SMTP_USERNAME', 'no-reply@dratoxweb.org' );
+define( 'SMTP_PASSWORD', 'EtvLYpG91*14}\@0O|£s)K' );
+define( 'SMTP_FROM', 'no-reply@dratoxweb.org' );
+define( 'SMTP_FROMNAME', 'Mon site Web' );
 
 
 /* That's all, stop editing! Happy publishing. */

@@ -80,3 +80,25 @@ function felix_session_start() {
 }
 
 add_action( 'init', 'felix_session_start', 1 );
+
+/**
+ * Configurer l'envoi de courriel par SMTP.
+ * @author Christiane Lagacé <christiane.lagace@hotmail.com>
+ *
+ * Utilisation : add_action( 'phpmailer_init', 'monprefixe_configurer_courriel' );
+ * L'envoi de courriel ser fera comme suit :
+ * wp_mail( "destinataire@sondomaine.com", "Sujet", "Message" );
+ */
+function felix_configurer_courriel( $phpmailer ) {
+	$phpmailer->isSMTP();
+	$phpmailer->Host = SMTP_HOST;
+	$phpmailer->SMTPAuth = SMTP_AUTH;
+	$phpmailer->Port = SMTP_PORT;
+	$phpmailer->SMTPSecure = SMTP_SECURE;
+	$phpmailer->Username = SMTP_USERNAME;
+	$phpmailer->Password = SMTP_PASSWORD;
+	$phpmailer->From = SMTP_FROM;
+	$phpmailer->FromName = SMTP_FROMNAME;
+}
+
+add_action( 'phpmailer_init', 'felix_configurer_courriel' );

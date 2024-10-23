@@ -65,9 +65,14 @@ if ($messageErreur == ''){
 		// réagir en cas de problème
 		monprefixe_log_debug( $wpdb->last_error );
 	}
+
+	$_SESSION['formulaire_reussi'] = "Envoi réussi !";
+}
+else{
+	$_SESSION['formulaire_reussi'] = $messageErreur;
 }
 
 // Retour à la page d'accueil
-$_SESSION['formulaire_reussi'] = $messageErreur;
 $url_retour = get_site_url();
 wp_redirect( $url_retour );
+$envoi_reussi = wp_mail( "felixdupras@gmail.com", "Sujet", "Message" );
