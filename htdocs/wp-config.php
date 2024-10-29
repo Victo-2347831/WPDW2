@@ -101,7 +101,7 @@ define( 'WP_DEBUG', true );
 
 // Pendant le débogage, lorsqu'une erreur est rencontrée, n'affiche pas de message d'erreur à l'écran.
 // Plutôt, WordPress enverra un codes d'état HTTP 500 au navigateur.
-define( 'WP_DEBUG_DISPLAY', false );
+define( 'WP_DEBUG_DISPLAY', true );
 
 // Pendant le débogage, WordPress enregistrera les messages d'erreur dans le fichier cité.
 // Note : si la constante est simplement initialisée à true, les messages seront enregistrés dans le fichier wp-content/debug.log.

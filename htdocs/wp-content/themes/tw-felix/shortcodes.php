@@ -59,7 +59,7 @@ add_shortcode( 'felixaffichageBD', 'felix_affichage_tableBD' );
  *
  */
 function felix_formulaire_contact() {
-	$code_html = '<form method="post" action="' . get_stylesheet_directory_uri() . '/envoyer-courriel-contact.php">';
+	$code_html = "<form method='post' action='" . get_stylesheet_directory_uri() . "/envoyer-courriel-contact.php'>";
 
 	$code_html .=
 		"
@@ -74,7 +74,7 @@ function felix_formulaire_contact() {
 			<label for='message'>Message :</label>
     		<textarea id='message' name='message' placeholder='Votre message...' style='height:200px' required></textarea>
 
-    		<input type='submit' value='Soumettre'>
+    		<button type='submit'>Soumettre</button>
 			</form>
 		";
 	return $code_html;
