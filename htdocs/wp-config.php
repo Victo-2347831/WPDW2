@@ -18,7 +18,7 @@
  * @package WordPress
  */
 
-define( 'HEBERGEMENT_LOCAL', true );
+define( 'HEBERGEMENT_LOCAL', true);
 
 // ** Database settings - You can get this info from your web host ** //
 if ( HEBERGEMENT_LOCAL ) {
@@ -122,7 +122,12 @@ define( 'SMTP_SECURE', 'tls' );   // ou ssl
 define( 'SMTP_USERNAME', 'no-reply@dratoxweb.org' );
 define( 'SMTP_PASSWORD', 'EtvLYpG91*14}\@0O|£s)K' );
 define( 'SMTP_FROM', 'no-reply@dratoxweb.org' );
-define( 'SMTP_FROMNAME', 'Mon site Web' );
+if ( HEBERGEMENT_LOCAL ) {
+	define( 'SMTP_FROMNAME', 'wordpress2024-duprassimardfelix.dvl.to' );
+}
+else {
+	define( 'SMTP_FROMNAME', 'dratoxweb.org' );
+}
 
 
 /* That's all, stop editing! Happy publishing. */

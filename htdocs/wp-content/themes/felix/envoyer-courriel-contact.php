@@ -63,7 +63,7 @@ if ($messageErreur == ''){
 
 	if ( ! $reussite ) {
 		// réagir en cas de problème
-		monprefixe_log_debug( $wpdb->last_error );
+		felix_log_debug( $wpdb->last_error );
 	}
 
 	$_SESSION['formulaire_reussi'] = "Envoi réussi !";
@@ -75,4 +75,5 @@ else{
 // Retour à la page d'accueil
 $url_retour = get_site_url();
 wp_redirect( $url_retour );
-$envoi_reussi = wp_mail( "felixdupras@gmail.com", "Sujet", "Message" );
+
+$envoi_reussi = wp_mail( $email, $sujetMessage, $message );

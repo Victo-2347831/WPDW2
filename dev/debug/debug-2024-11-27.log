@@ -1,0 +1,584 @@
+[27-Nov-2024 20:32:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:32:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:32:52 UTC] Automatic updates starting...
+[27-Nov-2024 20:32:54 UTC]   Automatic plugin updates starting...
+[27-Nov-2024 20:32:54 UTC]   Automatic plugin updates complete.
+[27-Nov-2024 20:32:54 UTC]   Automatic theme updates starting...
+[27-Nov-2024 20:32:55 UTC]   Automatic theme updates complete.
+[27-Nov-2024 20:32:55 UTC] Automatic updates complete.
+[27-Nov-2024 20:33:01 UTC] PHP Warning:  Undefined array key "formulaire_reussi" in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-messages.php on line 59
+[27-Nov-2024 20:33:01 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:33:01 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:33:04 UTC] PHP Warning:  Undefined array key "formulaire_reussi" in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-messages.php on line 59
+[27-Nov-2024 20:33:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:33:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:33:05 UTC] PHP Warning:  Undefined array key "formulaire_reussi" in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-messages.php on line 59
+[27-Nov-2024 20:33:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:33:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:33:10 UTC] PHP Warning:  Undefined array key "formulaire_reussi" in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-messages.php on line 59
+[27-Nov-2024 20:33:10 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:33:10 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:33:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:33:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:31 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:31 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:31 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:31 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:34 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:34 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:34 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:34 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:34 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:42 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:42 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:42 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:42 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:42 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:46 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:46 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:49 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:38:50 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:39:53 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:39:53 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:40:52 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:40:53 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:41:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:41:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:42:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:42:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:43:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:43:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:44:52 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/functions.php on line 7300
+[27-Nov-2024 20:44:52 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/functions.php on line 2189
+[27-Nov-2024 20:44:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/functions.php:7300) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/includes/misc.php on line 1438
+[27-Nov-2024 20:44:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/functions.php:7300) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/functions.php on line 7108
+[27-Nov-2024 20:44:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/functions.php:7300) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 9
+[27-Nov-2024 20:44:53 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:44:53 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:44:54 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:44:54 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:44:55 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:44:55 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:45:54 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:45:54 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:45:55 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:45:55 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:45:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:45:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:45:57 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:45:57 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:47:03 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:47:03 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:48:00 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:48:00 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:49:18 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:49:18 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:49:19 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:49:20 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:50:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:50:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:50:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:50:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:50:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:50:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:50:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:50:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:50:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:50:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:50:58 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:50:58 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:50:59 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 20:50:59 UTC] PHP Fatal error:  Uncaught TypeError: felix_creer_page_edition(): Argument #1 ($id) must be of type int, string given, called in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/class-wp-hook.php on line 324 and defined in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-pages.php:32
+Stack trace:
+#0 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/class-wp-hook.php(324): felix_creer_page_edition('')
+#1 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin.php(259): do_action('admin_page_feli...')
+#4 {main}
+  thrown in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-pages.php on line 32
+[27-Nov-2024 20:50:59 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:51:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[27-Nov-2024 20:51:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[27-Nov-2024 20:51:01 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:51:01 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:55:53 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 20:55:53 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:55:54 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:55:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:55:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:56:02 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 20:56:02 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:56:02 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:56:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:56:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:56:10 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:56:10 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:56:15 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 20:56:15 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:56:16 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:57:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:57:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:57:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:57:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:57:49 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 20:57:50 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:57:50 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:57:57 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:57:57 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:57:59 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 20:58:00 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:58:00 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:59:03 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:59:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:59:09 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 20:59:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:59:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:59:10 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:59:10 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:59:14 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 20:59:14 UTC] PHP Fatal error:  Uncaught TypeError: felix_creer_page_edition(): Argument #1 ($id) must be of type int, string given, called in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php on line 36 and defined in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-pages.php:32
+Stack trace:
+#0 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php(36): felix_creer_page_edition('')
+#1 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/class-wp-hook.php(324): {closure}('')
+#2 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin.php(259): do_action('admin_page_feli...')
+#5 {main}
+  thrown in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-pages.php on line 32
+[27-Nov-2024 20:59:14 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:59:15 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:59:24 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 20:59:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 20:59:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 20:59:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:59:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:59:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 20:59:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:00:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:00:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:00:40 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:00:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:00:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:00:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:00:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:00:42 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:00:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:01:43 UTC] PHP Parse error:  syntax error, unexpected token "," in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php on line 35
+[27-Nov-2024 21:01:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:01:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:01:54 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:01:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:01:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:01:54 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:01:55 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:01:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:01:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:02:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:02:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:02:14 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:02:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:02:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:02:15 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:02:15 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:02:29 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:02:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:02:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:02:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:02:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:02:43 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:02:43 UTC] PHP Fatal error:  Uncaught TypeError: felix_creer_page_edition(): Argument #1 ($id) must be of type int, string given, called in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php on line 36 and defined in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-pages.php:32
+Stack trace:
+#0 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php(36): felix_creer_page_edition('test')
+#1 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/class-wp-hook.php(324): {closure}('')
+#2 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin.php(259): do_action('admin_page_feli...')
+#5 {main}
+  thrown in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-pages.php on line 32
+[27-Nov-2024 21:02:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:02:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:03:26 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:03:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:03:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:03:26 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:03:26 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:03:28 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:03:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:03:32 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:03:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:03:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:03:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:03:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:04:35 UTC] PHP Parse error:  syntax error, unexpected token ")" in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php on line 35
+[27-Nov-2024 21:04:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:04:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:05:07 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:05:07 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:05:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:05:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:05:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:05:13 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:05:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:05:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:05:13 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:05:14 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:06:17 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:06:18 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:06:43 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:06:44 UTC] PHP Fatal error:  Uncaught TypeError: felix_creer_page_edition(): Argument #1 ($id) must be of type int, string given, called in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php on line 42 and defined in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-pages.php:32
+Stack trace:
+#0 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php(42): felix_creer_page_edition('test')
+#1 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/class-wp-hook.php(324): {closure}('')
+#2 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin.php(259): do_action('admin_page_feli...')
+#5 {main}
+  thrown in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-pages.php on line 32
+[27-Nov-2024 21:06:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:06:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:06:46 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:06:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:07:07 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:07:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:07:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:07:27 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:07:27 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:07:28 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:07:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:07:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:07:30 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:07:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:07:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:07:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:07:31 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:07:51 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:07:52 UTC] PHP Fatal error:  Uncaught TypeError: felix_creer_page_edition(): Argument #1 ($id) must be of type int, string given, called in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php on line 39 and defined in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-pages.php:32
+Stack trace:
+#0 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php(39): felix_creer_page_edition('1test')
+#1 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/class-wp-hook.php(324): {closure}('')
+#2 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin.php(259): do_action('admin_page_feli...')
+#5 {main}
+  thrown in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-pages.php on line 32
+[27-Nov-2024 21:07:52 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:07:52 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:07:54 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:07:55 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:08:05 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:08:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:08:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:08:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:08:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:08:16 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:08:17 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:08:17 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:09:21 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:09:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:09:25 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:09:26 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:09:26 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:09:27 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:09:28 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:09:45 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:09:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:09:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:09:46 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:09:46 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:10:48 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:10:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:10:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:10:48 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:10:48 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:10:49 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:10:49 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:10:50 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:10:50 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:11:01 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:11:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:11:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:11:02 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:11:02 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:11:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:11:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:11:51 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:11:52 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:11:52 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:11:54 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:11:54 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:12:24 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:12:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:12:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:12:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:12:25 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:12:26 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:12:27 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:13:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:13:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:13:51 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:13:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:13:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:13:52 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:13:52 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:13:54 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:13:54 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:14:55 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:14:55 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:15:27 UTC] PHP Warning:  require_once(../../../wp-load.php): Failed to open stream: No such file or directory in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php on line 2
+[27-Nov-2024 21:15:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../wp-load.php' (include_path='.:/usr/local/lib/php') in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php:2
+Stack trace:
+#0 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/functions.php(2): require_once()
+#1 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-settings.php(668): include('/shared/httpd/w...')
+#2 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-config.php(141): require_once('/shared/httpd/w...')
+#3 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-load.php(50): require_once('/shared/httpd/w...')
+#4 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin.php(34): require_once('/shared/httpd/w...')
+#5 {main}
+  thrown in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php on line 2
+[27-Nov-2024 21:15:27 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:15:28 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:15:29 UTC] PHP Warning:  require_once(../../../wp-load.php): Failed to open stream: No such file or directory in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php on line 2
+[27-Nov-2024 21:15:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../wp-load.php' (include_path='.:/usr/local/lib/php') in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php:2
+Stack trace:
+#0 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/functions.php(2): require_once()
+#1 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-settings.php(668): include('/shared/httpd/w...')
+#2 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-config.php(141): require_once('/shared/httpd/w...')
+#3 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-load.php(50): require_once('/shared/httpd/w...')
+#4 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-blog-header.php(13): require_once('/shared/httpd/w...')
+#5 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/index.php(17): require('/shared/httpd/w...')
+#6 {main}
+  thrown in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php on line 2
+[27-Nov-2024 21:15:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:15:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:15:42 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:15:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:15:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:15:42 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:15:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:15:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:15:45 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:16:04 UTC] PHP Warning:  require_once(./tableau-de-bord-pages.php): Failed to open stream: No such file or directory in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php on line 2
+[27-Nov-2024 21:16:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './tableau-de-bord-pages.php' (include_path='.:/usr/local/lib/php') in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php:2
+Stack trace:
+#0 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/functions.php(2): require_once()
+#1 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-settings.php(668): include('/shared/httpd/w...')
+#2 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-config.php(141): require_once('/shared/httpd/w...')
+#3 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-load.php(50): require_once('/shared/httpd/w...')
+#4 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin.php(34): require_once('/shared/httpd/w...')
+#5 {main}
+  thrown in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php on line 2
+[27-Nov-2024 21:16:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:16:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:16:05 UTC] PHP Warning:  require_once(./tableau-de-bord-pages.php): Failed to open stream: No such file or directory in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php on line 2
+[27-Nov-2024 21:16:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './tableau-de-bord-pages.php' (include_path='.:/usr/local/lib/php') in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php:2
+Stack trace:
+#0 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/functions.php(2): require_once()
+#1 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-settings.php(668): include('/shared/httpd/w...')
+#2 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-config.php(141): require_once('/shared/httpd/w...')
+#3 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-load.php(50): require_once('/shared/httpd/w...')
+#4 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-blog-header.php(13): require_once('/shared/httpd/w...')
+#5 /shared/httpd/wordpress2024-duprassimardfelix/htdocs/index.php(17): require('/shared/httpd/w...')
+#6 {main}
+  thrown in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-menus.php on line 2
+[27-Nov-2024 21:16:05 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:16:05 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:16:20 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:16:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:16:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:16:21 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:16:21 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:16:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:16:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:16:43 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:16:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:16:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:16:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:16:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:16:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:16:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:17:14 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:17:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:17:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:17:15 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:17:15 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:17:17 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:17:17 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:17:19 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:17:20 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:17:20 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:18:22 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:18:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:18:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:18:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:18:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:18:25 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:18:25 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:18:28 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:18:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:18:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:18:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:18:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:19:03 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:19:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:19:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:19:03 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:19:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:19:05 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:19:05 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:19:21 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:19:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:19:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:19:21 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:19:21 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:19:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:19:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:20:07 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:20:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:20:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:20:07 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:20:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:20:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:20:10 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:20:39 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:20:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:20:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:20:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:20:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:20:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:20:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:20:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:20:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:21:17 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:21:18 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:21:18 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:21:19 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:21:20 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:21:56 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:21:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[27-Nov-2024 21:21:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php:36) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[27-Nov-2024 21:21:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:21:57 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:21:59 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:21:59 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:22:04 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:22:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:22:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:22:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:22:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:22:58 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:22:59 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:22:59 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:23:02 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:23:02 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:23:04 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:23:05 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:23:05 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:24:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:24:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:26:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:26:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:27:48 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:27:49 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:27:49 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:27:50 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:27:50 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:27:51 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:27:51 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:28:52 UTC] PHP Parse error:  syntax error, unexpected identifier "type", expecting "," or ";" in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/felix/tableau-de-bord-pages.php on line 46
+[27-Nov-2024 21:28:52 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:28:52 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:29:31 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:29:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:29:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:29:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:29:34 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:30:04 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:30:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:30:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:30:05 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:30:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:30:34 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:30:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:30:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:30:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:30:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:31:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:31:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:33:18 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:33:18 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:33:19 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:33:20 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:33:20 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:33:21 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:33:21 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:33:26 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:33:26 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:33:30 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:33:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:33:31 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:34:34 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:34:34 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:34:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:34:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:34:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:34:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:34:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:35:11 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:35:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:35:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:35:23 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-admin/admin-header.php on line 36
+[27-Nov-2024 21:35:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27-Nov-2024 21:35:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).

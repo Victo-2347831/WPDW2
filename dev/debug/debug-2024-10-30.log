@@ -1,0 +1,209 @@
+[30-Oct-2024 19:16:00 UTC] Automatic updates starting...
+[30-Oct-2024 19:16:02 UTC] Automatic updates complete.
+[30-Oct-2024 19:16:05 UTC] PHP Warning:  Undefined array key "formulaire_reussi" in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-messages.php on line 60
+[30-Oct-2024 19:16:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:16:07 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:16:08 UTC] PHP Warning:  Undefined array key "formulaire_reussi" in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-messages.php on line 60
+[30-Oct-2024 19:16:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:16:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:16:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:16:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:16:09 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:16:09 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:16:09 UTC] PHP Warning:  Undefined array key "formulaire_reussi" in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-messages.php on line 60
+[30-Oct-2024 19:16:09 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:16:09 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:16:10 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:16:10 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:16:10 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:16:10 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:16:10 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:16:10 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:16:10 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:16:10 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:16:11 UTC] PHP Warning:  Undefined array key "formulaire_reussi" in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-messages.php on line 60
+[30-Oct-2024 19:16:11 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:16:11 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:16:11 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:16:11 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:16:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:16:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:16:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:16:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:16:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:16:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:02 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:02 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:07 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:07 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:10 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:10 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:10 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:13 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:13 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:13 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:13 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:13 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:14 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:14 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:14 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:26 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:26 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:27 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:17:27 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:18:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:18:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:18:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:18:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:18:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:18:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:43:58 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:43:58 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:43:58 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:43:58 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:43:59 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:43:59 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:43:59 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:43:59 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:44:00 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:44:00 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:44:00 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:44:00 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:44:01 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:44:01 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:44:01 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:44:01 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:44:05 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:44:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 15:44:19 America/Montreal] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 15:44:19 America/Montreal] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 15:44:19 America/Montreal] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:44:21 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:44:21 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:44:22 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:44:22 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:44:23 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:44:23 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:44:23 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:44:23 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:44:23 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:44:23 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:44:24 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:44:24 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:44:24 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:44:24 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:44:24 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:44:24 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:44:51 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:44:52 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 15:44:57 America/Montreal] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 15:44:57 America/Montreal] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 15:44:58 America/Montreal] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:44:59 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:44:59 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:44:59 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:44:59 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:45:00 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:45:00 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:45:01 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:45:01 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:45:01 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:45:01 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:45:01 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:45:01 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:45:01 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:45:01 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:45:02 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:45:02 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:45:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:45:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:45:25 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:45:25 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:45:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:45:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:45:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:45:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:45:50 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:45:51 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:45:55 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:45:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:45:58 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:45:58 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:46:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:46:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:46:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:46:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:46:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:46:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:46:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:46:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:46:33 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:46:33 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:46:34 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:46:34 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:46:34 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:46:34 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:46:34 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:46:34 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:46:34 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:46:34 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:46:35 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:46:35 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:46:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:46:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:46:36 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:46:36 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 15:46:41 America/Montreal] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 15:46:41 America/Montreal] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 15:46:42 America/Montreal] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:46:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:46:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:46:43 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:46:43 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:46:43 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:46:43 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:46:43 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:46:43 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:46:43 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:46:43 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:46:43 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:46:43 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:46:44 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:46:44 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:46:44 UTC] PHP Warning:  Attempt to read property "post_content" on null in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/tableau-de-bord-pages.php on line 15
+[30-Oct-2024 19:46:44 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/shortcodes.php on line 150
+[30-Oct-2024 19:47:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:47:25 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:47:25 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:47:25 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:47:26 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:47:26 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:47:31 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:47:31 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:47:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:47:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:51:17 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 19:51:18 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 15:51:22 America/Montreal] PHP Warning:  Undefined array key "g-recaptcha-response" in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/envoyer-courriel-contact.php on line 81
+[30-Oct-2024 15:51:22 America/Montreal] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/envoyer-courriel-contact.php:81) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1435
+[30-Oct-2024 15:51:22 America/Montreal] PHP Warning:  Cannot modify header information - headers already sent by (output started at /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-content/themes/tw-felix/envoyer-courriel-contact.php:81) in /shared/httpd/wordpress2024-duprassimardfelix/htdocs/wp-includes/pluggable.php on line 1438
+[30-Oct-2024 15:51:23 America/Montreal] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 15:51:23 America/Montreal] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).
+[30-Oct-2024 15:51:23 America/Montreal] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: 172.24.208.1:9003 (through xdebug.client_host/xdebug.client_port).

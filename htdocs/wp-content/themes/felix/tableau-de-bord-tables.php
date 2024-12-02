@@ -18,6 +18,7 @@ function felix_creer_tables() {
         id bigint(20) unsigned NOT NULL auto_increment,
        	nom varchar(50) NOT NULL,
         description varchar(100) NOT NULL,
+        quantite bigint(255) NOT NULL,
         PRIMARY KEY  (id)
     ) $charset_collate;";
 
@@ -31,13 +32,15 @@ function felix_creer_tables() {
 	if ('' != $erreur_sql) {
 		// réagir en cas de problème
 		felix_log_debug("Erreur lors de la création de la table $table_items.");
+		felix_log_debug($erreur_sql);
+
+		$_SESSION['felix_erreur_creation_table'] = true;
 	}
 
 	// INSERTION DONNÉES TABLE ITEMS
 	$donnees = [
-		[ 'item1', 'test enregistrement num. 1' ],    // données du premier enregistrement
-		[ 'item2', 'test enregistrement num. 2' ],    // données du deuxième enregistrement
-		// ...
+		[ 'Pomme', 'Sac de pommes', 3 ],    // données du premier enregistrement
+		[ 'Orange', "Sac d'oranges", 6 ],    // données du deuxième enregistrement
 	];
 
 	foreach( $donnees as $donnee ) {
@@ -47,10 +50,12 @@ function felix_creer_tables() {
 			[
 				'nom' => $donnee[0],
 				'description' => $donnee[1],
+				'quantite' => $donnee[2]
 			],
 			[
 				'%s',
 				'%s',
+				'%d',
 			]
 		);
 
@@ -83,6 +88,9 @@ function felix_creer_tables() {
 	if ('' != $erreur_sql) {
 		// réagir en cas de problème
 		felix_log_debug("Erreur lors de la création de la table $table_contacts.");
+		felix_log_debug($erreur_sql);
+
+		$_SESSION['felix_erreur_creation_table'] = true;
 	}
 }
 
